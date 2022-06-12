@@ -4,7 +4,7 @@
 -----|--------
 學期 | 110 學年度下學期
 學生 |  陳文吉
-學號末兩碼 | 15
+學號末兩碼 | [15](https://github.com/RyanChen-01/sp110b/wiki/Chen%E7%9A%84%E7%AD%86%E8%A8%98)
 教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc110/sp/
